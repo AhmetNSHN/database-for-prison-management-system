@@ -1,6 +1,6 @@
 # database-for-prison-management-system
 
-This is an example database Design about prison, prison management system. DB keep information about prisoners, staff and other prison units. ER Diagram and Database schema are below
+This is an example database Design about a prison. DB keep information about prisoners, staff and other prison units. ER Diagram and Database schema are below
 
 
 
