@@ -4,6 +4,9 @@ This is an example database Design about prison, prison management system. DB ke
 
 
 
+
+
+
 ![alt text](https://github.com/AhmetNSHN/database-for-prison-management-system/blob/main/%20Entity%20Relationship%20Diagram.png)
 
 
